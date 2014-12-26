@@ -1,10 +1,12 @@
 Given the following shape, draw it without crossing over or going back over previous lines.
 
+```
    o
   / \
  o - o - o
       \ /
        o
+```
 
 
 ```lisp
