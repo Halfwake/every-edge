@@ -1,4 +1,4 @@
-Given the following shape, draw it without crossing over or going back over previous lines.
+Solve the chinese postman problem.
 
 ```
    o
